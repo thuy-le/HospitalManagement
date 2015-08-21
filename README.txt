@@ -1,3 +1,7 @@
+# HospitalManagement
+- Hospital Management system written in C#
+- University assignment
+
 ****************************************************************
 Student Name: 	Le Huynh Ngoc Thuy
 Student ID:	s3372751
